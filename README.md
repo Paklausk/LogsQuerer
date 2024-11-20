@@ -1,5 +1,6 @@
-#Potential Enhancements
+# Potential Enhancements
 1. Increase test coverage
+2. Further output of results improvements
 
 # Task 
 Create a console application what would parse a log csv file and print out logs based on a custom query. Use the attached csv file to work with.
