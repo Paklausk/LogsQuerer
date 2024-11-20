@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogsQuerer", "LogsQuerer\LogsQuerer.csproj", "{52AD9D83-2503-487A-9B89-FE8D9C6BED44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsQuerer.Tests", "LogsQuerer.Tests\LogsQuerer.Tests.csproj", "{1ABCCD55-D35F-4B67-8B6D-27B2B398D07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AD9D83-2503-487A-9B89-FE8D9C6BED44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AD9D83-2503-487A-9B89-FE8D9C6BED44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AD9D83-2503-487A-9B89-FE8D9C6BED44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AD9D83-2503-487A-9B89-FE8D9C6BED44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABCCD55-D35F-4B67-8B6D-27B2B398D07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABCCD55-D35F-4B67-8B6D-27B2B398D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABCCD55-D35F-4B67-8B6D-27B2B398D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABCCD55-D35F-4B67-8B6D-27B2B398D07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F018842-36C2-4897-A3DA-4529F6676C92}
+	EndGlobalSection
+EndGlobal

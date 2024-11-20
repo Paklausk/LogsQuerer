@@ -1,0 +1,7 @@
+{
+  "logFiles": [
+    ".logFiles/logs.csv",
+    ".logFiles/logs2.csv"
+  ],
+  "alertSeverityLevel": 5
+}
